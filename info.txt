@@ -39,3 +39,5 @@ Commit #19 squash local commit 2
 Commit #20 squash local commit 3
 
 Commit #21 squash local commit 4
+
+no more commits after this line.
