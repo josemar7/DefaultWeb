@@ -45,3 +45,7 @@ Commit #22 cherry pick demo commit 1
 Commit #23 cherry pick demo commit 2
 
 no more commits after this line.
+
+commit 1 from feature-1
+
+commit 2 from feature-1
